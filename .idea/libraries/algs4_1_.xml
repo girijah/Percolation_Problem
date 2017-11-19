@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="algs4(1)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../MyEdu/Year 2/Semester-2/Algorithms/CW-1/algs4(1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../MyEdu/Year 2/Semester-2/Algorithms/CW-1/stdlib(10).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../MyEdu/Year 2/Semester-2/Algorithms/CW-1/algs4(1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../MyEdu/Year 2/Semester-2/Algorithms/CW-1/stdlib(10).jar!/" />
+    </SOURCES>
+  </library>
+</component>

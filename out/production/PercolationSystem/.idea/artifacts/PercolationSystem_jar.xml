@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PercolationSystem:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="PercolationSystem.jar">
+      <element id="module-output" name="PercolationSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MyEdu/Year2/Semester-2/Algorithms/CW-1/algs4(1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MyEdu/Year2/Semester-2/Algorithms/CW-1/stdlib(10).jar" path-in-jar="/" />
+      <element id="library" level="project" name="algs4(1)" />
+    </root>
+  </artifact>
+</component>
